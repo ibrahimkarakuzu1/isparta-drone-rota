@@ -6,7 +6,7 @@ Bu proje, **Yapay Zeka Sınavı Proje-2 (Senaryo 8)** kapsamında geliştirilmi�
 Karayollarının kullanılamaz olduğu afet senaryolarında, 90'a yakın gerçek toplanma alanına ulaşmak için **Gezgin Satıcı Problemi'ni (TSP)** doğadan esinlenen **Karınca Kolonisi Algoritması (ACO - Ant Colony Optimization)** kullanarak çözmek.
 
 ##  Özellikler
-* **Gerçek Veri Seti:** e-Devlet AFAD sisteminden alınan 90 adet gerçek koordinat (Enlem/Boylam).
+* **Gerçek Veri Seti:** e-Devlet AFAD sisteminden alınan 90'a yakın gerçek koordinat (Enlem/Boylam).
 * **Modüler Mimari:** `Core` (Algoritma), `Data` (Veri) ve `Main` (Arayüz) katmanlarına ayrılmış profesyonel yapı.
 * **Haversine Formülü:** Drone uçuşu simüle edildiği için kuş uçuşu mesafe hesaplaması.
 * **İnteraktif Arayüz:** Streamlit ile geliştirilmiş parametre kontrol paneli.
