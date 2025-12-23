@@ -21,5 +21,4 @@ yzs_proje2_drone/
 ├── data/                  # Veri Katmanı
 │   └── coordinates.py     # Isparta AFAD Toplanma Alanları Veri Seti
 ├── main.py                # Streamlit Ana Uygulaması (Arayüz)
-├── requirements.txt       # Gerekli Kütüphaneler
-└── README.md              # Proje Dokümantasyonu
+└── requirements.txt       # Gerekli Kütüphaneler
